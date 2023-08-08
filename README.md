@@ -1,4 +1,4 @@
-# CWW-PROJECT
+# INVESTIGATING NETFLIX MOVIES
 
 ## Test 1
 Use our friend's data to create a dictionary. To do so, you will need to perform the following
